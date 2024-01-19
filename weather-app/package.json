@@ -9,9 +9,14 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native/js-polyfills": "^0.74.0",
+    "@react-native/metro-babel-transformer": "^0.73.13",
+    "@react-native/metro-config": "^0.73.3",
     "axios": "^1.6.5",
     "expo": "~50.0.2",
     "expo-status-bar": "~1.11.1",
+    "metro-config": "^0.80.4",
+    "metro-runtime": "^0.80.4",
     "react": "18.2.0",
     "react-native": "0.73.2",
     "react-native-elements": "^3.4.3",
